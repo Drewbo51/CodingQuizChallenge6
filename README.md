@@ -1,1 +1,3 @@
 # CodingQuizChallenge6
+1. Was able to create a timer that started upon beginning of quiz and also subtracted 15 seconds every time user missed a question. Unfortunately I was unable to find a way to stop timer once the timer landed got to zero.
+2. Another problem I could not figure out was how to add multiple entries to the high score list. I even once tried to push the initials and score of the user into an array and doing a for loop. The only way I was able to do it was by only allowing one name in the highscores list and by using local storage so the information could travel from the index.html to a place that I could grab the info and then place on the highscores.html.
